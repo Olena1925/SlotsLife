@@ -1,4 +1,4 @@
-# Step by Step User Manual for SlotsLife Control Panel
+# Step by Step User Manual
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## 1. Introduction
-The SlotsLife Control Panel is a robust platform for Dashboarding and Reporting. It enables the admins to have a quick look on the nodes, as well as generate different types of reports such as available currencies, cashflows, players and their spending, periodics and bonus reports.
+The Control Panel is a robust platform for Dashboarding and Reporting. It enables the admins to have a quick look on the nodes, as well as generate different types of reports such as available currencies, cashflows, players and their spending, periodics and bonus reports.
 
 **Login Steps**
 
