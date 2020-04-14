@@ -55,7 +55,7 @@ Locate the current language next to the time icon to change from **Russian** to 
 ### 2.1 Changing Password
 On the top right corner, click on your `username` (in this case tech_writer05) to get the options to **change password**, and to **logout**.
 
-![Change Password](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/password.png)
+![Change Password](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/password.png
 
 <p align="center">image 3: Changing Password</p>
 
