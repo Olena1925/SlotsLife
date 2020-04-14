@@ -46,18 +46,18 @@ After you have successfully logged-in, the page lands you to the **Dashboard** o
 
 Navigating in the dashboard is fairly easy, please refer the steps below to perform the following functions in the top menu-bar.
 
-### 2.3 Changing Timezone
+### 2.1 Changing Timezone
 On the top menu-bar, click time icon to get the dropdown menu with all the timezones options to choose from.
 
 ### 2.2 Switching Languages
 Locate the current language next to the time icon to change from **Russian** to **English** and Vice-Versa.
 
-### 2.1 Changing Password
+### 2.3 Changing Password
 On the top right corner, click on your `username` (in this case tech_writer05) to get the options to **change password**, and to **logout**.
 
-![Change Password](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/password.png
+![Смена пароля](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/passwords.gif)
 
-<p align="center">image 3: Changing Password</p>
+<p align="center">изображение 3: Смена пароля</p>
 
 1. Enter the current password in the `Old password` field
 2. Enter the desired password in the `New password` field and repeat in the `Retype new password` field
