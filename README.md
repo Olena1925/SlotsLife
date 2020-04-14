@@ -84,7 +84,7 @@ By referring the image 4 above, you can search the node by its **name** or **#ID
 ## 4. Reports
 There are 6 types of reports you can generate which you can see from the sub-section 4.1 to 4.6 below.
 
-![Report Options](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/reports.gif)
+![](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/reporting.gif)
 
 <p align="center">image 4: Generating Reports</p>
 
@@ -92,7 +92,7 @@ On the sidebar menu, click on the **Reports** icon to see the six reporting opti
 
 ### 4.1 Cashflow
 
-![Cashflow](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/cashflow.gif)
+![](https://raw.githubusercontent.com/Olena1925/SlotsLife/master/cashflows.gif)
 
 <p align="center">image 5: Cashflows</p>
 
